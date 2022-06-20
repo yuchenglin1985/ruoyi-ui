@@ -4,6 +4,7 @@
   "description": "若依管理系统",
   "author": "若依",
   "license": "MIT",
+  "homepage": "https://yuchenglin1985.github.io/ruoyi",
   "scripts": {
     "dev": "vue-cli-service serve",
     "build:prod": "vue-cli-service build",
